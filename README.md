@@ -1,6 +1,6 @@
 # Django-REST-API-for-cinema-service
 
-Django REST API framework project for cinema service
+Django REST API framework project for cinema service.
 
 
 ## Installation
